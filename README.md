@@ -14,9 +14,7 @@ I build Python tools for analysing commodity markets, with a focus on price risk
 
 ### 📂 Projects
 
-| Project | Description | Status |
-|---|---|---|
-| [commodity-risk-analyzer](https://github.com/ByMarross/commodity-risk-analyzer) | Python tool for analysing commodity price risk | 🚧 In development |
+🚧 Projects in development — first releases coming soon.
 
 ---
 
