@@ -1,4 +1,4 @@
-## Quantitative Finance · Commodity Markets · Python
+## Quantitative Finance · Commodity Markets · Cryptocurrency · Python
 
 I build Python tools for analysing commodity markets, with a focus on price risk, hedging, and quantitative trading research. My background is in commodity trading, including physical operations and derivatives, and I use code to turn that market knowledge into measurable, testable analysis.
 
